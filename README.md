@@ -1,2 +1,5 @@
-# .github
-A repository to allow creation of a public facing README file.
+## READ ME - ADFG TED Program
+### Welcome to the GitHub account for the Alaska Department of Fish and Game's Threatened, Endangered, and Diversity (TED) Program. 
+Here you will find repositories for completed and archived analyses, packages, and other tools created by TED Program staff. As of November 2025, our program is starting the process of migrating analyses to GitHub, thus, public repositories will become available as they are completed. If you have questions about specific repositories or TED projects, please contact Jeff Wagner, Biometrician at [jeff.wagner@alaska.gov](mailto:jeff.wagner@alaska.gov).
+
+Repositories published under this account can be searched by topic, including study species, region, and type of analysis. Please refer to a repository's README file for specific information on folder and code structure, publications, and usage. Additionally, please note that some data, analyses, and other materials (such as those related to sensitive or endangered species) may be maintained privately.
